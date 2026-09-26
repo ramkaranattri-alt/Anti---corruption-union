@@ -1,0 +1,6 @@
+{
+  "name": "Indian Anti-Corruption Union",
+  "description": "Citizen network exposing corruption, whistleblower video reports, activist connections, Gyanesh Kumar watchdog, and political satire.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
